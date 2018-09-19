@@ -6,6 +6,7 @@ public class Information {
 		System.out.println("Hi, my name is Islam Beth");
 		System.out.println("My favourite color is Red");
 		System.out.println("My favourite mode of transportation is Bus");
+		System.out.println("The best day of the week is Sunday");
 	}
 
 }
